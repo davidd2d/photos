@@ -1,2 +1,3 @@
 # photos
-Web site for sports pictures
+Django app to manage sports pictures:
+-generate water marking
